@@ -1,0 +1,23 @@
+.card{
+    margin:25px 0;
+}
+.card img{
+    background-color: #F5EDCB;
+}
+
+.card-body{
+     background-color: #F5EDCB;
+}
+
+a{
+ color:#000000;
+ text-align:center;   
+}
+a:hover{
+ color: #EB3F2F;
+text-decoration: none; 
+
+}
+.card:hover{
+    box-shadow: 5px 10px 8px #888888;
+}

@@ -13,6 +13,7 @@ const Pokemon = (props) => {
                 </div>
             </Link>
         </div>
+
     );
 
 }

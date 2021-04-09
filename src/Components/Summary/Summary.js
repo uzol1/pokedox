@@ -26,6 +26,7 @@ const Summary = (props) => {
                                 {pokemon.types ? (pokemon.types.join(' ')) : null
                                 }
                             </h3>
+			    <button type="button" className="btn btn-primary" onClick={() => { props.history.push('/') }}>Go Back</button>
                         </div>
                     </div>
                 </div>
